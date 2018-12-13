@@ -3,3 +3,8 @@ D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\trunk\PilotTrain
 D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\trunk\PilotTraining\obj\Debug\PilotTraining.csprojResolveAssemblyReference.cache
 D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\trunk\PilotTraining\obj\Debug\PilotTraining.dll
 D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\trunk\PilotTraining\obj\Debug\PilotTraining.pdb
+D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\PilotTraining\bin\PilotTraining.dll
+D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\PilotTraining\bin\PilotTraining.pdb
+D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\PilotTraining\obj\Debug\PilotTraining.csprojResolveAssemblyReference.cache
+D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\PilotTraining\obj\Debug\PilotTraining.dll
+D:\15. Project\2. Pilot Training\Github\SFSPilotTrainingProject\PilotTraining\obj\Debug\PilotTraining.pdb
